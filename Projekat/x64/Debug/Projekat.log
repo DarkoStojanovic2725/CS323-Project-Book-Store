@@ -1,0 +1,4 @@
+﻿  Projekat.cpp
+c:\users\darko\documents\visual studio 2015\projects\projekat\projekat\projekat.cpp(113): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\darko\documents\visual studio 2015\projects\projekat\projekat\projekat.cpp(113): note: consider using '%hhd' in the format string
+  Projekat.vcxproj -> C:\Users\darko\documents\visual studio 2015\Projects\Projekat\x64\Debug\Projekat.exe
